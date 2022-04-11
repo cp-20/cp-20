@@ -1,5 +1,7 @@
 ### cp20
 
+アイコン → [@sora_douhu](https://twitter.com/sora_douhu)
+
 何の変哲もないプログラマー 
 
 最近は自作プログラミング言語Lazeのフロント＋バックエンド周りをいじくってます
